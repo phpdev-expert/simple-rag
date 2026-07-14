@@ -1,4 +1,4 @@
-# CV Screener + RAG Q&A — LlamaIndex + LangChain + LangGraph
+# simple-rag — CV Screener + RAG Q&A (LlamaIndex + LangChain + LangGraph)
 
 A small, runnable example that generates 10 sample CV PDFs and answers questions
 about the candidates.
